@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65170" started-at="2024-07-11T23:23:16 IST" finished-at="2024-07-11T23:24:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65170" started-at="2024-07-11T23:23:16 IST" finished-at="2024-07-11T23:24:21 IST">
+      <class name="testcases.TestCase">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcases.TestCase@319b92f3]" name="launchBrowser" is-config="true" duration-ms="31803" started-at="2024-07-11T23:22:44 IST" finished-at="2024-07-11T23:23:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="createObject()[pri:0, instance:testcases.TestCase@319b92f3]" name="createObject" is-config="true" duration-ms="330" started-at="2024-07-11T23:23:16 IST" finished-at="2024-07-11T23:23:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TestCase@319b92f3]" name="testcase1" duration-ms="7859" started-at="2024-07-11T23:23:17 IST" finished-at="2024-07-11T23:23:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:testcases.TestCase@319b92f3]" name="testcase2" duration-ms="6088" started-at="2024-07-11T23:23:25 IST" finished-at="2024-07-11T23:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:testcases.TestCase@319b92f3]" name="testcase3" duration-ms="31211" started-at="2024-07-11T23:23:31 IST" finished-at="2024-07-11T23:24:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:testcases.TestCase@319b92f3]" name="testcase4" duration-ms="18762" started-at="2024-07-11T23:24:02 IST" finished-at="2024-07-11T23:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.TestCase@319b92f3]" name="closeBrowser" is-config="true" duration-ms="995" started-at="2024-07-11T23:24:21 IST" finished-at="2024-07-11T23:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
